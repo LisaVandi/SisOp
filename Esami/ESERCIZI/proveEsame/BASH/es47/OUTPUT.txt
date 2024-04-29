@@ -1,0 +1,6 @@
+sono arrabbiata
+ferita 
+e senza acqua
+__END_DECLS
+
+#endif /* <stdio.h> included.  */

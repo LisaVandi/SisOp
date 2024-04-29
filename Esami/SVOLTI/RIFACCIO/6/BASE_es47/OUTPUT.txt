@@ -1,0 +1,14 @@
+ciao
+come
+va
+
+__END_DECLS #endif /bin /boot /dev /etc /home /init /lib /lib32 /lib64 /libx32 /lost+found /media /mnt /opt /proc /root /run /sbin /snap /srv /sys /tmp /usr /var <stdio.h> included. */
+__END_DECLS
+
+#endif /* <stdio.h> included.  */
+__END_DECLS
+
+#endif /* <stdio.h> included.  */
+__END_DECLS
+
+#endif /* <stdio.h> included.  */
